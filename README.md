@@ -15,6 +15,7 @@ Um **drag & drop file uploader** simples, com uma experiência fluida e intuitiv
 ## 🚀 Funcionalidades
 
 ✅ Suporte a **arrastar e soltar** imagens.
+✅ Suporte a colar imagens.
 ✅ Upload de arquivos ao clicar na área de drop.
 ✅ Visualização instantânea da imagem carregada.
 ✅ Responsivo e leve.
